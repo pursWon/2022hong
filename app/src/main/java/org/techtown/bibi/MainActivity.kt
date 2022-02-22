@@ -12,6 +12,7 @@ import org.techtown.bibi.ui.theme.BibiTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+
         super.onCreate(savedInstanceState)
         setContent {
             BibiTheme {
