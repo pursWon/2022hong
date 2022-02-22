@@ -12,6 +12,8 @@ import org.techtown.bibi.ui.theme.BibiTheme
 
 //Test Push
 class MainActivity : ComponentActivity() {
+    private val handle = Handle()
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {

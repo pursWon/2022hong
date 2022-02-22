@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "bibi"
 include ':app'
+include ':week1'
